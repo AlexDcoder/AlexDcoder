@@ -6,7 +6,7 @@ Meu nome é Alexandre e sou desenvolvedor de software.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="Estatísticas do GitHub" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexDcoder&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="Linguagens mais usadas" />
 </div>

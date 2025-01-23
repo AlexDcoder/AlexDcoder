@@ -32,3 +32,10 @@ Seja Bemv-indo(a) ao meu repositório, me chamo Alexandre Franco e sou Desenvolv
 </ul>
 
 ---
+
+📈 Snake Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/snake.svg" alt="Snake animation" />
+</div>
+

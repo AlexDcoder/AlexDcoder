@@ -60,8 +60,4 @@ Um pequeno *distrator* neste perfil — uma versão do clássico jogo da cobrinh
 
 ---
 
-## 📫 Como Me Encontrar
-
-- ✉️ **E‑mail:** alexandrepinto586@gmail.com  
-
 > *Obrigado pela visita ao meu perfil! Estou sempre aberto a novas conexões e colaborações.*  

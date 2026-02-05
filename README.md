@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Tenho foco no desenvolvimento de soluções web, aplicações interativas e análise de dados. Gosto de aprender novas tecnologias e aplicar conhecimento em projetos práticos.
+Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Tenho foco no desenvolvimento de soluções web, aplicações interativas e análise de dados. Gosto de aprender novas técnicas e ferramentas que possam me ajudar a evoluir como programador.
 
 ---
 
@@ -49,7 +49,7 @@ Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Ten
 ### 🔥 Minhas estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="AlexDcoder's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula" alt="AlexDcoder's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" alt="Top languages" />
 </div>
 
@@ -58,9 +58,9 @@ Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Ten
 ### 🗓️ Atividade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -68,6 +68,6 @@ Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Ten
 Se quiser, posso:
 - Traduzir tudo para inglês;
 - Adicionar links de contato (LinkedIn, e‑mail, portfolio);
-- Reorganizar seções por prioridade (projetos, currículo, blog).
+- Reorganizar seções por prioridade (projetos, currículo, blog). 
 
-Me diga qual opção prefere.  
+Me diga qual opção prefere.

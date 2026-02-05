@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 💡 <b>Interesses:<\b>  <br>  - Ciência de Dados  <br>  - Desenvolvimento de <b>Agentes Inteligentes<b>  <br>  - Desenvolvimento Front-End e Back-End  <br>  - Docker<br><br>- 🌱 <b>Atualmente aprendendo:<\b> FastAPI, Scikit-Learn, React, Java, entre outros.</p>
+<p align="left">- 💡 <b>Interesses:<b>  <br>  - Ciência de Dados  <br>  - Desenvolvimento de <b>Agentes Inteligentes<b>  <br>  - Desenvolvimento Front-End e Back-End  <br>  - Docker<br><br>- 🌱 <b>Atualmente aprendendo:<\b> FastAPI, Scikit-Learn, React, Java, entre outros.</p>
 
 ###
 

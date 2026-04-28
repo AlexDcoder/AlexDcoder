@@ -52,12 +52,3 @@ Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Ten
   <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula" alt="AlexDcoder's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" alt="Top languages" />
 </div>
-
----
-
-Se quiser, posso:
-- Traduzir tudo para inglês;
-- Adicionar links de contato (LinkedIn, e‑mail, portfolio);
-- Reorganizar seções por prioridade (projetos, currículo, blog). 
-
-Me diga qual opção prefere.

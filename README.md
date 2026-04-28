@@ -55,16 +55,6 @@ Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Ten
 
 ---
 
-### 🗓️ Atividade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/commit_hash/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 Se quiser, posso:
 - Traduzir tudo para inglês;
 - Adicionar links de contato (LinkedIn, e‑mail, portfolio);

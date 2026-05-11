@@ -37,6 +37,13 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 
 ---
 
+### 🐍 Snake Game
 
-![Snake Game](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=AlexDcoder&palette=github-dark)
+![Snake Game](https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/github-contribution-grid-snake-dark.svg)
 
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)

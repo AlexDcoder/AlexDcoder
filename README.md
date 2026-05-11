@@ -31,19 +31,15 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDcoder&theme=dracula)
+### 📈 Estatísticas e Atividade
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
 
 ### 🐍 Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 📫 Como me encontrar
+![Snake Game](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg)ncontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alexandrefraanco/](https://www.linkedin.com/in/alexandre-franco-3b7842270/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrepinto586@gmail.com)

@@ -64,9 +64,3 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexDcoder&color=blue&style=flat-square&label=PROFILE+VIEWS" />
-</div>

@@ -23,16 +23,20 @@ Olá! Sou **Alexandre Franco**, formado em Ciência da Computação na **Univers
   ![Languages](https://skillicons.dev/icons?i=py,js,ts,r,java,cpp,bash&perline=8)
 
   **Data Science & AI**  
-  ![Data Science](https://skillicons.dev/icons?i=py,r,anaconda,tensorflow,pytorch,sklearn,opencv,matlab&perline=8)  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter" />
+  ![Data Science](https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,opencv,matlab&perline=8)  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="matplotlib" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter" />
+  </div>
 
   **Data Engineering & Databases**  
   ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,kafka&perline=8)  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="airflow" />
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="spark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="airflow" />
+  </div>
 
   **Web & App Development**  
   ![Web & Mobile](https://skillicons.dev/icons?i=react,nextjs,flask,spring,flutter,dart,html,css,tailwind&perline=9)

@@ -29,7 +29,7 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 
 ### 📈 Estatísticas e Atividade
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlexDcoder&layout=compact&theme=dracula)
 

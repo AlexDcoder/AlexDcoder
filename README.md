@@ -19,49 +19,31 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 
 ### 🛠 Linguagens e Ferramentas
 
-<div align="center">
-  <!-- Fileira 1: Linguagens e Frameworks -->
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,flask,spring,flutter,tensorflow" alt="Linguagens e Frameworks" />
-  <br><br>
-  <!-- Fileira 2: Banco de Dados e Cloud -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,docker" alt="DB e Cloud" />
-  <br><br>
-  <!-- Fileira 3: Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,postman,tailwind,css" alt="Ferramentas" />
-</div>
+![Linguagens e Frameworks](https://skillicons.dev/icons?i=py,js,ts,react,flask,spring,flutter,tensorflow)
+
+![DB e Cloud](https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,docker)
+
+![Ferramentas](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,postman,tailwind,css)
 
 ---
 
-### 📈 Estatísticas e Atividade
+### 📈 Estatísticas e Atividade (Commits)
 
-<div align="center">
-  <!-- Status Geral e Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" height="170em" alt="Top Langs" />
-  
-  <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-  <!-- GitHub Streak (O gráfico que pega a frequência de commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDcoder&theme=dracula" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDcoder&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula)
 
 ---
 
-### 🐍 Atividade no GitHub
+### 🐍 Snake Game (Contribuições)
 
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=AlexDcoder&palette=github-dark" alt="Snake Game" />
-</div>
+![Snake Game](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=AlexDcoder&palette=github-dark)
 
 ---
 
 ### 📫 Como me encontrar
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)

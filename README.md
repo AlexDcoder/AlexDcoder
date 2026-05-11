@@ -4,51 +4,64 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Sou Alexandre Franco, estudante de Ciência da Computação na Unifor. Tenho foco no desenvolvimento de soluções web, aplicações interativas e análise de dados. Gosto de aprender novas técnicas e ferramentas que possam me ajudar a evoluir como programador.
+Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifor**. Tenho foco no desenvolvimento de soluções web, aplicações interativas e análise de dados. Gosto de aprender novas técnicas e ferramentas que possam me ajudar a evoluir como programador.
 
 ---
 
-## 🚀 Interesses
+### 🚀 Interesses
 
-- 💡 Ciência de Dados  
-- 🤖 Agentes Inteligentes e IA  
-- 🌐 Desenvolvimento Front-end e Back-end  
-- 🐳 Docker e conteinerização
+- 💡 **Ciência de Dados**
+- 🤖 **Agentes Inteligentes e IA**
+- 🌐 **Desenvolvimento Fullstack**
+- 🐳 **Docker e Conteinerização**
 
 ---
 
-### 🛠 Linguagens e ferramentas
+### 🛠 Linguagens e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
+  <!-- Fileira 1: Linguagens e Frameworks -->
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,flask,spring,flutter,tensorflow" alt="Linguagens e Frameworks" />
+  <br><br>
+  <!-- Fileira 2: Banco de Dados e Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,docker" alt="DB e Cloud" />
+  <br><br>
+  <!-- Fileira 3: Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,postman,tailwind,css" alt="Ferramentas" />
 </div>
 
 ---
 
-### 🔥 Minhas estatísticas
+### 📈 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula" alt="AlexDcoder's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" alt="Top languages" />
+  <!-- Status Geral e Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" height="170em" alt="Top Langs" />
+  
+  <br>
+
+  <!-- GitHub Streak (O gráfico que pega a frequência de commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDcoder&theme=dracula" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=AlexDcoder&palette=github-dark" alt="Snake Game" />
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="mailto:seu-email@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>

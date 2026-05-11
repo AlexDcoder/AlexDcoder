@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Alexandre%20Franco&fontSize=70&animation=fadeIn" width="100%" />
+  <h1><i>Alexandre Franco</i></h1>
 
   ### 👨‍💻 Computer Science Student | Fullstack Developer | Data Science Enthusiast
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Desenvolvendo+solu%C3%A7%C3%B5es+inteligentes;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -38,12 +36,12 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AlexDcoder&show_icons=true&theme=dracula" height="150em" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexDcoder&layout=compact&theme=dracula" height="150em" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDcoder&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexDcoder&theme=dracula" height="150em" />
 </div>
 
 ---

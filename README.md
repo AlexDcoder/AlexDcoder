@@ -1,7 +1,7 @@
 <div align="center">
   <h1><i>Alexandre Franco</i></h1>
 
-  ### 👨‍💻 Computer Science Student | Fullstack Developer | Data Science Enthusiast
+  ### 👨‍💻 Data Science Student | Fullstack Developer | Ai Engineer
 </div>
 
 ---

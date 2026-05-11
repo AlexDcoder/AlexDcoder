@@ -8,9 +8,8 @@
 
 ### 📖 Sobre Mim
 
-Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifor**. Atualmente focado no desenvolvimento de ecossistemas web interativos e análise profunda de dados. Acredito que a tecnologia é a ferramenta mais poderosa para resolver problemas complexos da vida real.
+Olá! Sou **Alexandre Franco**, formado em Ciência da Computação na **Universidade de Fortaleza - Unifor**. Atualmente focado no desenvolvimento de agentes inteligentes e análise profunda de dados. Acredito que a tecnologia é a ferramenta mais poderosa para resolver problemas complexos da vida real.
 
-- 🚀 Atualmente explorando **Agentes Inteligentes e IA**.
 - 🐳 Experiência com **Docker e Conteinerização**.
 - 💡 Buscando sempre a melhor performance e escalabilidade.
 

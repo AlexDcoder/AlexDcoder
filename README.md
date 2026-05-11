@@ -39,7 +39,7 @@ Olá! Sou **Alexandre Franco**, estudante de Ciência da Computação na **Unifo
 
 ### 🐍 Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/AlexDcoder/AlexDcoder/output/github-contribution-grid-snake-dark.svg)
+![Snake Game](https://raw.githubusercontent.com/AlexDcoder/AlexDcoder-main/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
